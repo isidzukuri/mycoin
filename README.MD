@@ -1,5 +1,5 @@
-# Crypto currency
-Basic implementation of crypto currency and blockchain.
+# Cryptocurrency
+Basic implementation of cryptocurrency and blockchain.
 
 ## Usage
 
