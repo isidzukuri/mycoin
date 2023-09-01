@@ -1,5 +1,5 @@
 # Cryptocurrency
-Basic implementation of cryptocurrency and blockchain.
+Basic implementation of cryptocurrency and blockchain. POC.
 
 ## Usage
 
